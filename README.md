@@ -1,5 +1,5 @@
 # roll-a-dice
-Virtual Rice Roller for RPG
+Virtual Dice Roller for RPG
 
 This Python script simulates rolling dice for playing Dungeons and Dragons (D&D). It allows users to specify the number of dice to roll and the number of sides on each die.
 
